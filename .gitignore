@@ -1,0 +1,6 @@
+# .gitignore
+wp-config.php
+.htaccess
+wp-content/uploads/
+node_modules/
+*.log
