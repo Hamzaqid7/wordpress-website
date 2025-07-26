@@ -1,0 +1,95 @@
+[21-Jul-2025 14:05:56 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 106496 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\class-wpdb.php on line 2351
+[21-Jul-2025 14:06:02 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 106496 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\class-wpdb.php on line 2351
+[21-Jul-2025 14:06:11 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 106496 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\class-wpdb.php on line 2351
+[21-Jul-2025 14:06:26 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 106496 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\class-wpdb.php on line 2351
+[21-Jul-2025 14:06:31 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 106496 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\class-wpdb.php on line 2351
+[21-Jul-2025 14:14:12 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1206
+[21-Jul-2025 14:14:12 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 32768 bytes) in C:\xampp\htdocs\ecommerce1\wp-content\plugins\forminator\library\lib\action-scheduler\classes\abstracts\ActionScheduler_Lock.php on line 1
+[21-Jul-2025 14:15:49 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1206
+[21-Jul-2025 14:15:49 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 32768 bytes) in C:\xampp\htdocs\ecommerce1\wp-content\plugins\forminator\library\lib\action-scheduler\classes\abstracts\ActionScheduler_Lock.php on line 1
+[21-Jul-2025 14:24:19 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1206
+[21-Jul-2025 14:24:19 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 32768 bytes) in C:\xampp\htdocs\ecommerce1\wp-content\plugins\forminator\library\lib\action-scheduler\classes\abstracts\ActionScheduler_Lock.php on line 1
+[22-Jul-2025 04:11:19 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1206
+[22-Jul-2025 04:11:19 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 32768 bytes) in C:\xampp\htdocs\ecommerce1\wp-content\plugins\forminator\library\lib\action-scheduler\classes\abstracts\ActionScheduler_Lock.php on line 1
+[22-Jul-2025 04:18:13 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1206
+[22-Jul-2025 04:18:13 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 32768 bytes) in C:\xampp\htdocs\ecommerce1\wp-content\plugins\forminator\library\lib\action-scheduler\classes\abstracts\ActionScheduler_Lock.php on line 1
+[22-Jul-2025 04:25:42 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1206
+[22-Jul-2025 04:25:42 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 32768 bytes) in C:\xampp\htdocs\ecommerce1\wp-content\plugins\forminator\library\lib\action-scheduler\classes\abstracts\ActionScheduler_Lock.php on line 1
+[22-Jul-2025 04:27:56 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[22-Jul-2025 10:59:11 UTC] Automatic updates starting...
+[22-Jul-2025 10:59:12 UTC]   Automatic plugin updates starting...
+[22-Jul-2025 10:59:12 UTC]     Upgrading plugin 'essential-addons-for-elementor-lite'...
+[22-Jul-2025 10:59:20 UTC]     Plugin 'essential-addons-for-elementor-lite' has been upgraded.
+[22-Jul-2025 10:59:22 UTC]     Scraping home page...
+[22-Jul-2025 10:59:27 UTC] '###### wp_scraping_result_start:7d8802d5fa8de6e786f87f619c1f7f77 ######
+true
+###### wp_scraping_result_end:7d8802d5fa8de6e786f87f619c1f7f77 ######
+'
+[22-Jul-2025 10:59:27 UTC]     The update for 'essential-addons-for-elementor-lite' has no fatal errors.
+[22-Jul-2025 10:59:27 UTC]   Automatic plugin updates complete.
+[22-Jul-2025 10:59:27 UTC]   Automatic theme updates starting...
+[22-Jul-2025 10:59:27 UTC]   Automatic theme updates complete.
+[22-Jul-2025 10:59:27 UTC] Automatic updates complete.
+[22-Jul-2025 15:03:54 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 163840 bytes) in C:\xampp\htdocs\ecommerce1\wp-content\plugins\elementor\includes\fonts.php on line 1820
+[22-Jul-2025 15:04:19 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 40960 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\class-wp-object-cache.php on line 239
+[22-Jul-2025 18:31:32 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[22-Jul-2025 18:31:37 UTC] Automatic updates starting...
+[22-Jul-2025 18:31:38 UTC]   Automatic plugin updates starting...
+[22-Jul-2025 18:31:38 UTC]     Upgrading plugin 'elementor'...
+[22-Jul-2025 18:32:03 UTC]     Plugin 'elementor' has been upgraded.
+[22-Jul-2025 18:32:05 UTC]     Scraping home page...
+[22-Jul-2025 18:32:10 UTC] '###### wp_scraping_result_start:1a810f5922f46f9096bf73fafb9e3f00 ######
+true
+###### wp_scraping_result_end:1a810f5922f46f9096bf73fafb9e3f00 ######
+'
+[22-Jul-2025 18:32:10 UTC]     The update for 'elementor' has no fatal errors.
+[22-Jul-2025 18:32:10 UTC]   Automatic plugin updates complete.
+[22-Jul-2025 18:32:11 UTC]   Automatic theme updates starting...
+[22-Jul-2025 18:32:11 UTC]   Automatic theme updates complete.
+[22-Jul-2025 18:32:11 UTC] Automatic updates complete.
+[23-Jul-2025 04:21:56 UTC] Automatic updates starting...
+[23-Jul-2025 04:21:58 UTC]   Automatic theme updates starting...
+[23-Jul-2025 04:21:58 UTC]   Automatic theme updates complete.
+[23-Jul-2025 04:21:58 UTC] Automatic updates complete.
+[23-Jul-2025 07:15:23 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 81920 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1215
+[23-Jul-2025 12:20:00 UTC] Automatic updates starting...
+[23-Jul-2025 12:20:02 UTC] Automatic updates complete.
+[23-Jul-2025 12:40:12 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[23-Jul-2025 15:59:47 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[23-Jul-2025 16:02:00 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 81920 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1199
+[23-Jul-2025 16:04:46 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[23-Jul-2025 16:07:26 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[23-Jul-2025 18:21:40 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[23-Jul-2025 18:22:00 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\xampp\htdocs\ecommerce1\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[23-Jul-2025 18:29:35 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[23-Jul-2025 18:29:51 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[23-Jul-2025 18:32:22 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[23-Jul-2025 18:34:28 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[23-Jul-2025 18:51:03 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[23-Jul-2025 18:51:17 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[23-Jul-2025 18:51:57 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[23-Jul-2025 18:54:15 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[23-Jul-2025 19:04:02 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\ecommerce1\wp-includes\class-wpdb.php on line 1988
+[23-Jul-2025 19:04:11 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\ecommerce1\wp-includes\class-wpdb.php on line 1988
+[23-Jul-2025 19:04:23 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\ecommerce1\wp-includes\class-wpdb.php on line 1988
+[23-Jul-2025 19:04:32 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\ecommerce1\wp-includes\class-wpdb.php on line 1988
+[23-Jul-2025 19:04:52 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it in C:\xampp\htdocs\ecommerce1\wp-includes\class-wpdb.php on line 1988
+[24-Jul-2025 06:28:54 UTC] Automatic updates starting...
+[24-Jul-2025 06:28:55 UTC] Automatic updates complete.
+[24-Jul-2025 07:02:51 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[24-Jul-2025 07:09:30 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[24-Jul-2025 07:11:25 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[24-Jul-2025 07:13:01 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[24-Jul-2025 07:13:14 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[24-Jul-2025 07:13:43 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[24-Jul-2025 09:54:22 UTC] Automatic updates starting...
+[24-Jul-2025 09:54:24 UTC] Automatic updates complete.
+[24-Jul-2025 09:56:01 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[24-Jul-2025 09:57:06 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[24-Jul-2025 09:57:17 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[24-Jul-2025 11:08:17 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[24-Jul-2025 11:15:50 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in C:\xampp\htdocs\ecommerce1\wp-includes\meta.php on line 1202
+[25-Jul-2025 15:56:40 UTC] Automatic updates starting...
+[25-Jul-2025 15:56:42 UTC] Automatic updates complete.
+[25-Jul-2025 20:20:55 UTC] Automatic updates starting...
+[25-Jul-2025 20:20:57 UTC] Automatic updates complete.
